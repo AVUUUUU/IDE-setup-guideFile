@@ -7,6 +7,7 @@ public class WritingControl  {
         System.out.println("Enter the number");
         i = scanner.nextInt();
 
+        int message;
         for(i = 0;  i <= message ; i++){
 
             message = (i%2==0) ? i+ "is even number" : i+ " is odd number";
